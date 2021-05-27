@@ -20,6 +20,10 @@ As páginas desenvolvidas foram:
 - Payment: Página de preenchimento de informações de pagamento
 - Thank You: Página de agradecimento da compra
 
+Ainda precisarão ser implementadas as seguintes páginas:
+- User: Página de Usuário
+- Admin: Página de Administrador.
+
 Comments About the Code:
 O código atual foi pensado apenas na estrutura necessária para a realização de uma compra.
 Alguns classes CSS foram reaproveitados de algumas páginas.
