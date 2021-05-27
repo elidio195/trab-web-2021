@@ -35,4 +35,4 @@ Test Results: -
 Build Procedures: -
 
 Problems:
-O código de estilização não foi organizado adequadamente, mas em próximas entregar serão quebradas de melhor forma.
+O código de estilização não foi organizado adequadamente, mas em próximas entregas serão quebradas de melhor forma.
